@@ -1,2 +1,2 @@
 Adding from github.com , infinite loop was helpful
-Addig more stuff from locally
+Adding more stuff from locally
